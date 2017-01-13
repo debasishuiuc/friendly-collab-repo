@@ -9,3 +9,7 @@ Happy to have anyone join - now it's just me.
 
 ## Setup and requirements
 This project requires a computer and internet.
+
+## Starting the github collaboration project
+
+This point is to start the collaboration.
